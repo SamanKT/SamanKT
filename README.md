@@ -1,5 +1,5 @@
 ### Hi, I am Saman 👋
-#### I am a Backend Developer
+#### I am a Software Developer
 
 <!--
 **SamanKT/SamanKT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--><!-- - 🤔 I’m looking for help with ...-->
