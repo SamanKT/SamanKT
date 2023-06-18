@@ -6,7 +6,7 @@
 <!-- - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... -->
 
-- 🔭 I’m currently working on **Spring Framework | ReactJs | Microservices**   	&nbsp; <img align="right" height="270px" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+- 🔭 I’m currently working on **Spring Framework | ReactJs | React Native | Microservices**   	&nbsp; <img align="right" height="270px" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 - 🌱 I’m currently learning 
   - **e-commerce integration with web applications**                                          
   - **Docker & Kubernetes for Spring boot applicaitons**    
