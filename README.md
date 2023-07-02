@@ -6,11 +6,12 @@
 <!-- - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... -->
 
-- 🔭 I’m currently working on **Spring Framework | ReactJs | React Native | Microservices**   	&nbsp; <img align="right" height="270px" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
-- 🌱 I’m currently learning 
+- 🔭 I’m currently working on a project as a **Mobile developer**
+- I have experience in **Spring Framework | ReactJs | React Native | Microservices**   	&nbsp; <img align="right" height="270px" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+<!--- 🌱 I’m currently learning 
   - **e-commerce integration with web applications**                                          
   - **Docker & Kubernetes for Spring boot applicaitons**    
-  - **Integration of Messaging APIs with Spring boot applications**
+  - **Integration of Messaging APIs with Spring boot applications**-->
   
 - 👯 I’m looking to collaborate on long-term projects
 - 💬 Ask me about anything! I am willing to help!
