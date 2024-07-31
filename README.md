@@ -1,13 +1,13 @@
 ### Hi, I am Saman 👋
-#### I am a Software Developer
+#### I am a BIM Software Developer
 
 <!--
 **SamanKT/SamanKT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--><!-- - 🤔 I’m looking for help with ...-->
 <!-- - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... -->
 
-- 🔭 I’m currently working on a project as a **Mobile developer**
-- I have experience in **React Native | ReactJs | Spring Framework | Microservices**   	&nbsp; <img align="right" height="270px" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+- 🔭 I’m currently working on a project as a **BIM software developer**
+- I have experience in **C#, React Native | ReactJs | Spring Framework | Microservices**   	&nbsp; <img align="right" height="270px" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 <!--- 🌱 I’m currently learning 
   - **e-commerce integration with web applications**                                          
   - **Docker & Kubernetes for Spring boot applicaitons**    
