@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ... -->
 
 - 🔭 I’m currently working as a **BIM Expert/Manager**
-- I have experience in **C#, Dynamo, React Native | ReactJs | Spring Framework | Microservices**   	&nbsp; <img align="right" height="270px" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+- I have experience in **C#, Dynamo, React Native | ReactJs | Revit API **   	&nbsp; <img align="right" height="270px" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
   
 - 💬 Ask me about anything! I am willing to help!
 - 📫 How to reach me: [Upwork](https://www.upwork.com/freelancers/~01d45dab5b311d5e84) and [Fiverr](https://www.fiverr.com/samankt?up_rollout=true)
