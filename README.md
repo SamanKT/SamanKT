@@ -18,9 +18,4 @@
 
 ### :fire: My Stats :
 
-![](https://raw.githubusercontent.com/samankt/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/samankt/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-
-![](https://raw.githubusercontent.com/samankt/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/samankt/github-stats/master/generated/languages.svg#gh-light-mode-only)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/samankt)](https://git.io/awesome-stats-card)
