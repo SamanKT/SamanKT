@@ -18,4 +18,4 @@
 
 ### :fire: My Stats :
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/samankt)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/samank&theme=darkt)](https://git.io/awesome-stats-card)
